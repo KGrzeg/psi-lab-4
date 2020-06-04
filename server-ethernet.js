@@ -85,7 +85,7 @@ function runServer(protocol, port, ip) {
         console.log(chalk`{red Socket is closed !}`);
       });
 
-      server.bind(port);
+      server.bind(port, ip);
       return server;
     }
   }
