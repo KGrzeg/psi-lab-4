@@ -1,0 +1,14 @@
+{
+  "name": "psi-lab-4",
+  "version": "1.0.0",
+  "description": "Serwer oraz klient protokółów TCP, UDP w środowisku Node.JS",
+  "main": "client-tcp.js",
+  "author": "Grzegorz Kupczyk",
+  "contributors": [
+    "Jarosław Bartkowski"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
