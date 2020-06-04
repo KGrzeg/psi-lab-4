@@ -1,5 +1,10 @@
 # psi-lab-4
 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/KGrzeg/psi-lab-4?style=flat-square)
+![GitHub](https://img.shields.io/github/license/KGrzeg/psi-lab-4?style=flat-square)
+![NodeJS](https://img.shields.io/badge/NodeJS-%23339933?style=flat-square&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual%20studio%20code)
+
 ## Wymagania:
 
 - Środowisko NodeJS wraz z managerem zależności npm
